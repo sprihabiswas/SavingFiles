@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SavingFiles</string>
+
+    <string name="save_intenal">Save files in Internal Storage</string>
+    <string name="save_external">Save files in External Storage</string>
+    <string name="file">FILE</string>
+    <string name="file_output">FILE OUTPUT STREAM</string>
+    <string name="cache">CACHE</string>
+    <string name="external">EXTERNAL STORAGE</string>
+    <string name="query">QUERY FREE SPACE</string>
+    <string name="delete">DELETE ALL FILES </string>
+</resources>
